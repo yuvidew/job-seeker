@@ -23,10 +23,7 @@ The Job-Seeker Web Application is designed to help job seekers create profiles, 
 - **[Firebase](https://firebase.google.com/):** Platform used for storing resumes and generating file links.
 
 ### Live Application
-- **Live URL:** [Job-Seeker Web Application](https://your-live-url-here.com)
-
-### Source Code
-- **GitHub Repository:** [GitHub Repo Link](https://github.com/your-github-repo)
+- **Live URL:** [Job-Seeker Web Application](https://job-seeker-bay.vercel.app/)
 
 ## Key Features
 
